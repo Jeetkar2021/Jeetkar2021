@@ -9,7 +9,7 @@ Workforce Management | Analytics | AI-Driven Operations
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [GitHub](http://github.com/Jeetkar2021)
 * ✉️  You can contact me at [kargaurav@gmail.com](mailto:kargaurav@gmail.com)
-* 🧠  I'm currently learning SSMS, Python
+* 🧠  I'm currently learning SSMS, Python, Azure
 * 👥  I'm looking to collaborate on AI workforce management
 * 💬  Ask me about I'm a VibeDoddler
 
